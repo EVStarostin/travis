@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.com/EVStarostin/travis.svg?branch=master)](https://travis-ci.com/EVStarostin/travis)
+[![Coverage Status](https://coveralls.io/repos/github/EVStarostin/travis/badge.svg)](https://coveralls.io/github/EVStarostin/travis)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
