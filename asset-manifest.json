@@ -1,0 +1,14 @@
+{
+  "main.css": "/travis/static/css/main.3feecfd6.chunk.css",
+  "main.js": "/travis/static/js/main.8909b61b.chunk.js",
+  "main.js.map": "/travis/static/js/main.8909b61b.chunk.js.map",
+  "static/js/1.2dd891c4.chunk.js": "/travis/static/js/1.2dd891c4.chunk.js",
+  "static/js/1.2dd891c4.chunk.js.map": "/travis/static/js/1.2dd891c4.chunk.js.map",
+  "runtime~main.js": "/travis/static/js/runtime~main.24685b08.js",
+  "runtime~main.js.map": "/travis/static/js/runtime~main.24685b08.js.map",
+  "static/media/logo.svg": "/travis/static/media/logo.5d5d9eef.svg",
+  "static/css/main.3feecfd6.chunk.css.map": "/travis/static/css/main.3feecfd6.chunk.css.map",
+  "index.html": "/travis/index.html",
+  "precache-manifest.2feaf18eb4beb200386aecf74bc68549.js": "/travis/precache-manifest.2feaf18eb4beb200386aecf74bc68549.js",
+  "service-worker.js": "/travis/service-worker.js"
+}
